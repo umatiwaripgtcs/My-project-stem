@@ -1,0 +1,6 @@
+{
+  "name": "Iris Flower Classifier",
+  "description": "A machine learning web application that predicts iris flower species based on sepal and petal measurements using scikit-learn and FastAPI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
